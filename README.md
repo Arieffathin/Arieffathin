@@ -6,7 +6,7 @@ Selamat datang di profil GitHub saya! Saya seorang **Machine Learning Engineer**
 
 ## 🚀 Tentang Saya
 
-* 💻 Saat ini saya bekerja sebagai **Machine Learning Engineer** di [Nama Perusahaan Anda/Proyek Saat Ini - jika relevan].
+* 💻 Saat ini saya seorang mahasiswa di universitas islam negeri ar-raniry
 * 🧠 Saya memiliki keahlian dalam mengembangkan dan menerapkan model *machine learning* untuk [Sebutkan beberapa area spesifik, misal: Natural Language Processing, Computer Vision, Predictive Analytics, dll.].
 * 📱 Saya sangat tertarik dengan **Kotlin** dan sedang menjelajahi penggunaannya, mungkin dalam pengembangan aplikasi Android, backend, atau bahkan untuk skrip dan *tooling* di ranah *machine learning*.
 * 🌱 Saya selalu antusias untuk belajar hal baru dan berkolaborasi dalam proyek-proyek inovatif.
@@ -17,7 +17,7 @@ Selamat datang di profil GitHub saya! Saya seorang **Machine Learning Engineer**
 
 Berikut adalah beberapa teknologi dan alat yang sering saya gunakan:
 
-* **Bahasa Pemrograman:** Python, **Kotlin** (sedang dipelajari/digunakan), SQL, [Lainnya, misal: R, Java, C++]
+* **Bahasa Pemrograman:** Python, **Kotlin** (sedang dipelajari/digunakan), 
 * **Machine Learning:**
     * **Frameworks/Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, [Lainnya, misal: XGBoost, LightGBM]
     * **Konsep:** Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning, MLOps
