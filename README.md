@@ -1,4 +1,4 @@
-# Halo! 👋 Saya [Nama Anda]
+# Halo! 👋 Saya Arief Fathin
 
 Selamat datang di profil GitHub saya! Saya seorang **Machine Learning Engineer** yang bersemangat dalam membangun solusi cerdas dan berbasis data. Saya juga memiliki minat yang besar terhadap **Kotlin** dan potensinya dalam berbagai aspek pengembangan perangkat lunak.
 
